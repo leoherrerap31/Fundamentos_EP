@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\Fundamentos_EP\bin\Debug\Fundamentos_EP.exe.config
+C:\Users\USUARIO\Desktop\Fundamentos_EP\bin\Debug\Fundamentos_EP.exe
+C:\Users\USUARIO\Desktop\Fundamentos_EP\bin\Debug\Fundamentos_EP.pdb
+C:\Users\USUARIO\Desktop\Fundamentos_EP\obj\Debug\Fundamentos_EP.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Fundamentos_EP\obj\Debug\Fundamentos_EP.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Fundamentos_EP\obj\Debug\Fundamentos_EP.exe
+C:\Users\USUARIO\Desktop\Fundamentos_EP\obj\Debug\Fundamentos_EP.pdb
